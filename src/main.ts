@@ -49,6 +49,14 @@ const buyables: buyable[] = [{
   numbought: 0,
   agedog: false,
 }, {
+  buttontext: "Take Dog for a Walk! 🐕‍🦺",
+  emoji: "🐕‍🦺",
+  price: 250,
+  newppc: 0.5,
+  newpps: 0,
+  numbought: 0,
+  agedog: false,
+}, {
   buttontext: "Give the Dog a Bone! 🦴",
   emoji: "🦴",
   price: 500,
